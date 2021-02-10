@@ -1,0 +1,12 @@
+1.Webpack
+    -Babel
+    -Sass
+    -Eslint
+    -Modes:
+        -DEV: Dev Server, SourceMaps, Eslint, Not Minified
+        -Prod: Minified
+2. Git
+    Production 
+       1.0.0
+    Development 
+       1.0.0
