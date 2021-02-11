@@ -7,7 +7,9 @@
     },
     "rules": {
         "linebreak-style": "off",
-        "require-jsdoc": "off"
+        "require-jsdoc": "off",
+        "operator-linebreak": "off",
+        "indent": 1
     },
     "extends": ["eslint:recommended", "google"]
 }
